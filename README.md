@@ -1,4 +1,4 @@
-# Crypto-DToken
+# 🪙Crypto-DToken
 
 Crypto DToken, is a crypto token built on the Internet Computer (IC) where  user can get free tokens and transfer them with their friends using their principal ID like a bank. 
 
