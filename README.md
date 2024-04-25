@@ -1,19 +1,11 @@
-Copyright 2022 London App Brewery LTD (www.appbrewery.com)
+# Crypto-DToken
 
-The code in this tutorial project is licended under the Apache License, Version 2.0 (the "License");
-you may not use this project except in compliance with the License.
-You may obtain a copy of the License at
+Crypto DToken, is a crypto token built on the Internet Computer (IC) using DFINITY's Motoko language, and React with Material UI. 
 
-    http://www.apache.org/licenses/LICENSE-2.0
+The user can claim free 10000 tokens, but just for once. Then the ability to see the balance of the tokens, as well as transfering the amount of tokens from wallet to another wallet.
 
-Unless required by applicable law or agreed to in writing, software
-distributed under the License is distributed on an "AS IS" BASIS,
-WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-See the License for the specific language governing permissions and
-limitations under the License.
+The page design is inspired from the old operating system interface design.
 
-Here is the TL;DR version of the above licence:
-https://tldrlegal.com/license/apache-license-2.0-(apache-2.0)
 
 # To Deploy
 
